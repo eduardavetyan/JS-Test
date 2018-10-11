@@ -1,6 +1,6 @@
 # JS Test
 
-Create an Event Calendar with JQuery or AngularJS
+Create an Event Calendar
 
 #### Functionality we must implement
 
